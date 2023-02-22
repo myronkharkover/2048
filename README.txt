@@ -1,10 +1,5 @@
-
-Name: Myron Kharkover
-PennKey: myronk
-
 /**********************************************************************
- *  Instructions for how to run your program (which class to run, 
- *  any command line arguments)               
+ *  Instructions for how to program      
  **********************************************************************/
 
 execution: java Game
@@ -16,12 +11,6 @@ to move, the blocks of like numbers will combine and form a new block containing
 the sum of the 2 previous blocks, and the 2 previous blocks will disappear
 leaving this new block. This happens until there are 16 blocks on the grid
 with no moves left, or until a block reaches a value of 2048 and the user wins
-
-/**********************************************************************
- *  Any additional features you added beyond the assignment specifications               
- **********************************************************************/
- 
- I implemented the animation of the blocks sliding
  
  /**********************************************************************
  * A brief description of each file and its purpose              
